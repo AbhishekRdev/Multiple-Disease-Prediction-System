@@ -41,4 +41,4 @@ if sel == "kidney":
 
 
 
-# st.info("Made with ⌚ by Abhishek & Tanish ©️ 2022")
+st.info("Made with ⌚ by Abhishek & Tanish ©️ 2022")

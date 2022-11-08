@@ -57,3 +57,4 @@ def app():
         else:
             st.success('The patient not having Heart Disease'.format(output))
 
+st.info("Made with ⌚ by Abhishek & Tanish ©️ 2022")
