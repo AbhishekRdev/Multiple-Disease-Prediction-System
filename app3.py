@@ -59,4 +59,4 @@ def app():
             st.success('The patient not having Kidney Disease/Failure'.format(output))
 
 
-    st.info("Made with ⌚ by Abhishek & Tanish ©️ 2022")
+st.info("Made with ⌚ by Abhishek & Tanish ©️ 2022")
