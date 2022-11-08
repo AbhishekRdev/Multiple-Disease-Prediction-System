@@ -1,6 +1,7 @@
 import streamlit as st
 import app0,app1,app2,app3
 from streamlit_option_menu import option_menu
+st.text("Multiple Disease Prediction")
 with st.sidebar:
     sel = option_menu(
         menu_title="Multiple Disease Prediction",
@@ -41,4 +42,3 @@ if sel == "kidney":
 
 
 
-st.info("Made with ⌚ by Abhishek & Tanish ©️ 2022")
