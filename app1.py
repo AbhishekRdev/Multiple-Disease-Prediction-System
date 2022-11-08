@@ -68,4 +68,4 @@ def app():
         else:
             st.success('The probability is that patient might not have Breast Cancer'.format(output))
 
-st.info("Made with ⌚ by Abhishek & Tanish ©️ 2022")
+    st.info("Made with ⌚ by Abhishek & Tanish ©️ 2022")

@@ -50,4 +50,4 @@ def app():
             st.success('The probability of patient not having Diabetes'.format(output))
 
 
-st.info("Made with ⌚ by Abhishek & Tanish ©️ 2022")
+    st.info("Made with ⌚ by Abhishek & Tanish ©️ 2022")
